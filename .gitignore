@@ -1,0 +1,7 @@
+# Ignore Power BI autosaves and backups
+*.pbix~*
+*.pbix.autosave
+
+# Ignore system files
+.DS_Store
+Thumbs.db
